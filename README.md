@@ -7,4 +7,4 @@ For using this code, you need to create access token and consumer key for your a
 code usage:                          
       python create-lists.py "File-name" "Description"          
           where File-name: file containing list of twitter handles to be added to the twitter list.                                              
-                Description: description for list to be craeted.
+                Description: description for list to be created.
